@@ -6,8 +6,9 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-|31st October, 2019 | Meta-Graph: Few Shot Link Prediction via Meta-Learning | Joey Bose |
-|24th October, 2019 | Neural Execution of Graph Algorithms| Petar Velickovic|
+|7th November, 2019 | Graph neural networks for molecular graphs: pitfalls and prospects | Emmanuel Noutahi | 
+|31st October, 2019 | Meta-Graph: Few Shot Link Prediction via Meta-Learning | Joey Bose | [Slides](https://drive.google.com/open?id=1kGwIO6tDlZ7JcQ5xmggpmo6QDFSsyv-F)
+|24th October, 2019 | Neural Execution of Graph Algorithms| Petar Velickovic| [Slides](https://drive.google.com/open?id=1FZB5vAJgEdUkWdKDBpLw3WClM-_CHWSt)
 |17th October, 2019 | Cancelled | |
 |10th October, 2019 | [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB) | Zhaocheng Zhu | [Slides](https://drive.google.com/open?id=1NOv9Xz9LaK_W7flo1hOwqc0uWuYqCRK9)
 |3rd October, 2019 | [Probabilistic Logic Neural Networks for Reasoning](https://arxiv.org/abs/1906.08495) | Meng Qu | [Slides](https://drive.google.com/open?id=1sx9IaWdHFMo07TmcRiBJfCFuuCUjH-y_)
