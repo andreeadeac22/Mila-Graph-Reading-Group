@@ -6,10 +6,13 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+|16th January, 2019 | Automatic Protein Annotation using Domain Similarity Graph | Bishnu Sarker |
+|5th December, 2019 | [Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks](https://papers.nips.cc/paper/9276-break-the-ceiling-stronger-multi-scale-deep-graph-convolutional-networks.pdf) | Sitao Luan|
+|28th November, 2019 | Graph Neural Networks for Real Time Large Network Re-Scheduling | Erik Nygren and Christian Eichenberger |
+|21st November, 2019 | [Understanding Attention and Generalization in Graph Neural Networks](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks.pdf) | Boris Knyazev | [Slides](https://drive.google.com/open?id=1C7Qzf3VJb9odEuJaLQUma1woifZxRgKD)
 |7th November, 2019 | Graph neural networks for molecular graphs: pitfalls and prospects | Emmanuel Noutahi | 
 |31st October, 2019 | Meta-Graph: Few Shot Link Prediction via Meta-Learning | Joey Bose | [Slides](https://drive.google.com/open?id=1kGwIO6tDlZ7JcQ5xmggpmo6QDFSsyv-F)
 |24th October, 2019 | Neural Execution of Graph Algorithms| Petar Velickovic| [Slides](https://drive.google.com/open?id=1FZB5vAJgEdUkWdKDBpLw3WClM-_CHWSt)
-|17th October, 2019 | Cancelled | |
 |10th October, 2019 | [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB) | Zhaocheng Zhu | [Slides](https://drive.google.com/open?id=1NOv9Xz9LaK_W7flo1hOwqc0uWuYqCRK9)
 |3rd October, 2019 | [Probabilistic Logic Neural Networks for Reasoning](https://arxiv.org/abs/1906.08495) | Meng Qu | [Slides](https://drive.google.com/open?id=1sx9IaWdHFMo07TmcRiBJfCFuuCUjH-y_)
 |26th September, 2019 | Empowering graph representation learning with paired training and graph co-attention | Andreea Deac | [Slides](https://drive.google.com/open?id=1vkBWXxtprzWN0RasK-dbjhbdHpw5bVlE)
