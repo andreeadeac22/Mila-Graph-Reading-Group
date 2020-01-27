@@ -6,7 +6,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-|16th January, 2019 | Automatic Protein Annotation using Domain Similarity Graph | Bishnu Sarker |
+|16th January, 2019 | Automatic Protein Annotation using Domain Similarity Graph | Bishnu Sarker | [Slides](https://drive.google.com/open?id=1lOreMFUL2aGdGN7ON4nsykopx7R7iEic) |
 |5th December, 2019 | [Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks](https://papers.nips.cc/paper/9276-break-the-ceiling-stronger-multi-scale-deep-graph-convolutional-networks.pdf) | Sitao Luan|
 |28th November, 2019 | Graph Neural Networks for Real Time Large Network Re-Scheduling | Erik Nygren and Christian Eichenberger |
 |21st November, 2019 | [Understanding Attention and Generalization in Graph Neural Networks](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks.pdf) | Boris Knyazev | [Slides](https://drive.google.com/open?id=1C7Qzf3VJb9odEuJaLQUma1woifZxRgKD)
