@@ -6,6 +6,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+|13rd February, 2020 | Continuous Graph Neural Networks | Louis-Pascal Xhonneux | [Slides](https://drive.google.com/open?id=1MtCtpSxbaIfIfeVAUS2fUXwDfXzO6OVR) | 
 |16th January, 2019 | Automatic Protein Annotation using Domain Similarity Graph | Bishnu Sarker | [Slides](https://drive.google.com/open?id=1lOreMFUL2aGdGN7ON4nsykopx7R7iEic) |
 |5th December, 2019 | [Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks](https://papers.nips.cc/paper/9276-break-the-ceiling-stronger-multi-scale-deep-graph-convolutional-networks.pdf) | Sitao Luan|
 |28th November, 2019 | Graph Neural Networks for Real Time Large Network Re-Scheduling | Erik Nygren and Christian Eichenberger |
