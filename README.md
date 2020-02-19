@@ -6,7 +6,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-|13rd February, 2020 | Continuous Graph Neural Networks | Louis-Pascal Xhonneux | [Slides](https://drive.google.com/open?id=1MtCtpSxbaIfIfeVAUS2fUXwDfXzO6OVR) | 
+|13rd February, 2020 | [Continuous Graph Neural Networks](https://arxiv.org/abs/1912.00967) | Louis-Pascal Xhonneux | [Slides](https://drive.google.com/open?id=1MtCtpSxbaIfIfeVAUS2fUXwDfXzO6OVR) | 
 |16th January, 2020 | Automatic Protein Annotation using Domain Similarity Graph | Bishnu Sarker | [Slides](https://drive.google.com/open?id=1lOreMFUL2aGdGN7ON4nsykopx7R7iEic) |
 
 ## 2019
