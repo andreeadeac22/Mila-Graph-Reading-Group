@@ -6,6 +6,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+|27th February, 2020 | [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://arxiv.org/abs/2002.03864) | Cristian Bodnar, Catalina Cangea| [Slides](https://drive.google.com/open?id=1RTKc4Y2cxDU196h6SkpTer-_e9kfmtst) | 
 |13rd February, 2020 | [Continuous Graph Neural Networks](https://arxiv.org/abs/1912.00967) | Louis-Pascal Xhonneux | [Slides](https://drive.google.com/open?id=1MtCtpSxbaIfIfeVAUS2fUXwDfXzO6OVR) | 
 |16th January, 2020 | Automatic Protein Annotation using Domain Similarity Graph | Bishnu Sarker | [Slides](https://drive.google.com/open?id=1lOreMFUL2aGdGN7ON4nsykopx7R7iEic) |
 
